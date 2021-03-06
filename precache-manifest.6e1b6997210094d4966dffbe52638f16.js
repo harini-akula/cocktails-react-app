@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19b2fabc3c60e94c66038dcde64d6044",
+    "revision": "7c7dc9af2fb321282fc60fc0972c12ed",
     "url": "/cocktails-react-app/index.html"
   },
   {
-    "revision": "1b846610b1fd9c6503be",
+    "revision": "08343cc53ebbf699169c",
     "url": "/cocktails-react-app/static/css/main.5c529f91.chunk.css"
   },
   {
-    "revision": "4e64cb41c467386471a9",
-    "url": "/cocktails-react-app/static/js/2.4322b41b.chunk.js"
+    "revision": "a4521ceb20fefe4a340b",
+    "url": "/cocktails-react-app/static/js/2.b56199da.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/cocktails-react-app/static/js/2.4322b41b.chunk.js.LICENSE.txt"
+    "url": "/cocktails-react-app/static/js/2.b56199da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b846610b1fd9c6503be",
-    "url": "/cocktails-react-app/static/js/main.c69e14a7.chunk.js"
+    "revision": "08343cc53ebbf699169c",
+    "url": "/cocktails-react-app/static/js/main.6128469e.chunk.js"
   },
   {
     "revision": "41169e94d06e12d0fc9b",
